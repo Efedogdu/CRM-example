@@ -1,4 +1,4 @@
-# SF002 - CRM Project
+# CRM Project
 
 ### Modules
 
